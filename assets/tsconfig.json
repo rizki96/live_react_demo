@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./js/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es5",
+        "jsx": "react",
+        "allowJs": true
+    }
+}
